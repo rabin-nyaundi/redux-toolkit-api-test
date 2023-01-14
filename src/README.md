@@ -1,10 +1,20 @@
 
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies:
 
 ```bash
-npm run dev
+npm install
 # or
-yarn dev
-```s.
+yarn install
+```
+
+Then run the development server.
+
+```bash
+yarn dev 
+
+#or 
+
+npm run dev
+```
